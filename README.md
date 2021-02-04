@@ -63,6 +63,17 @@ public float ayyaoAwyyaky(int[] array) {
 | Siegmund 2014 | 17                | 17            | 204                                | 204                             |
 | FSE17         | 11                | 14            | 42                                 | 42                              |
 
+## Additional Data: Brain Activation Location
+
+| Activated Brain Area (Brodmann) | Cluster Size (in Voxel) | TAL Coordinates (X, Y, Z) |
+|---------------------------------|-------------------------|---------------------------|
+| BA6           | 665  | -34, 3, 53   |
+| BA21          | 1352 | -56, -39, -3 |
+| BA44          | 547  | -46, 11, 22  |
+| BA39 left     | 1249 | -44, -56, 18 |
+| BA39 right    | 933  | 50, -53, 11  |
+
+
 # Replication
 
 ## Experimental Setup of Pre-Pilots for Replication
