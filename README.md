@@ -1,6 +1,9 @@
 # Measuring Neural Efficiency of Program Comprehension
 
-This repository contains additional information to the [ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de/) paper: Measuring Neural Efficiency of Program Comprehension.
+This repository contains additional information to the [ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de/) paper: 
+
+Janet Siegmund und Norman Peitek und Chris Parnin und Sven Apel und Johannes Hofmeister und Christian Kästner und Andrew Begel und Anja Bethmann und André Brechmann, *Measuring Neural Efficiency of Program Comprehension*, Proceedings of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (ESEC/FSE), Seiten (140-150), ACM Press, Sep, 2017 ([preprint](https://www.infosun.fim.uni-passau.de/publications/docs/SPP+17.pdf), [digital library](https://dl.acm.org/doi/10.1145/3106237.3106268))
+
 
 ## Appendix: Finding fMRI-Compatible Material
 
