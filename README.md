@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This repository contains additional information to the [ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de/) paper: 
+This repository contains the behavioral data (`BehavioralData.csv`) and additional information to the [ESEC/FSE 2017](http://esec-fse17.uni-paderborn.de/) paper: 
 
 Janet Siegmund und Norman Peitek und Chris Parnin und Sven Apel und Johannes Hofmeister und Christian Kästner und Andrew Begel und Anja Bethmann und André Brechmann, *Measuring Neural Efficiency of Program Comprehension*, Proceedings of the European Software Engineering Conference and the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (ESEC/FSE), Seiten (140-150), ACM Press, Sep, 2017 ([preprint](https://www.infosun.fim.uni-passau.de/publications/docs/SPP+17.pdf), [digital library](https://dl.acm.org/doi/10.1145/3106237.3106268))
 
@@ -211,3 +211,12 @@ Each snippet was shown for 30 seconds. Between each snippet was a break of 30 se
 ---
 
 <a name="footnote1">1</a>: Caesar shifting is a substitution cipher in which each letter is replaced by a letter some fixed number of positions down the alphabet.
+
+
+# License
+
+This repository is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
